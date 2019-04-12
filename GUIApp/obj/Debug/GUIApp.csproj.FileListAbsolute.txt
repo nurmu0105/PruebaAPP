@@ -1,0 +1,10 @@
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\bin\Debug\GUIApp.exe.config
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\bin\Debug\GUIApp.exe
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\bin\Debug\GUIApp.pdb
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\obj\Debug\GUIApp.csprojAssemblyReference.cache
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\obj\Debug\GUIApp.Form1.resources
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\obj\Debug\GUIApp.Properties.Resources.resources
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\obj\Debug\GUIApp.csproj.GenerateResource.cache
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\obj\Debug\GUIApp.csproj.CoreCompileInputs.cache
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\obj\Debug\GUIApp.exe
+C:\Users\nuriamc\Documents\Proyectos\NET\PruebaGUI\GUIApp\GUIApp\obj\Debug\GUIApp.pdb
