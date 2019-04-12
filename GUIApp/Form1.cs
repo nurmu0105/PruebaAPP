@@ -27,7 +27,7 @@ namespace GUIApp
             else
             {
                 solution.Text = text;
-                text = "";
+                text = "miaumiaumiau";
             }
         }
 
